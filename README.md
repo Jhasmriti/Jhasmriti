@@ -1,7 +1,7 @@
 <!-- 🔥 PREMIUM DATA ENGINEER README -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Data%20Engineer%20|%205%2B%20Years%20Experience&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Data%20Engineer%20|%205%2B%20Years%20Experience&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?
 type=waving&
 color=0:ff00ff,10:00ffff,25:00ff00,50:ffff00,75:ff0066,100:7c4dff&
-height=300&
+height=200&
 section=header&
 text=DATA%20ENGINEER&
 fontSize=52&
