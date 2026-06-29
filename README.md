@@ -1,7 +1,46 @@
 <!-- 🔥 HERO BANNER -->
+<!-- 🔥 NEXT-LEVEL HERO HEADER (BRIGHT + MODERN + ATTRACTIVE) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Data%20Engineer%20|%205%2B%20Years%20Experience&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?
+type=waving&
+color=0:ff00cc,25:3333ff,50:00ffcc,75:ffcc00,100:ff0066&
+height=260&
+section=header&
+text=DATA%20ENGINEER%20%7C%205%2B%20YEARS%20EXPERIENCE&
+fontSize=34&
+fontColor=ffffff&
+fontAlignY=38&
+animation=fadeIn"
+ />
+
+<br/>
+
+<!-- Sub glow tagline -->
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code&
+weight=600&
+size=20&
+duration=2500&
+pause=800&
+color=00F5FF&
+center=true&
+vCenter=true&
+width=700&
+lines=Cloud+%7C+ETL+%7C+Snowflake+%7C+Databricks+%7C+AWS+%7C+GCP;
+Scalable+Data+Pipelines+%7C+Data+Warehousing+%7C+Analytics+Engineering;
+Building+High-Performance+Data+Systems+at+Scale"
+/>
+
+<br/>
+
+<!-- Floating badges -->
+<p>
+<img src="https://img.shields.io/badge/Data%20Engineering-FF0066?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Native-00C2FF?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-7C4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Big%20Data-00FFB3?style=for-the-badge"/>
+</p>
 
 </div>
 
