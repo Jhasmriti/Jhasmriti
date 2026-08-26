@@ -58,7 +58,7 @@ lines=5%2B+Years+of+Experience+in+Data+Engineering" />
 
 ## 👩‍💻 ABOUT ME
 
-I am a **Data Engineer with 5+ years of experience** building scalable, cloud-native, and high-performance data systems.
+I am a **Data Engineer with 5.5+ years of experience** building scalable, cloud-native, and high-performance data systems.
 
 I specialize in:
 - ETL / ELT pipeline development  
